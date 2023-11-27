@@ -24,7 +24,7 @@ Let's take a look at them:
 
 |Tables|Anything but tables|
 |---|---|
-|'''Has rows and columns: - Every row in a table stores one record - Every column has some attribute of that record.
+|Has rows and columns: <br/>    - Every row in a table stores one record <br/>   - Every column has some attribute of that record.
 |jhgvjhv|
 |||
 |||
