@@ -10,6 +10,6 @@ It is obvious that more complex (amount of data, the relation between them, and 
 In fact, they are like a middle-man, between the database and the ones who want to use it. 
 <img width="358" alt="Screenshot 2023-11-27 at 11 23 00" src="https://user-images.githubusercontent.com/56404983/285825745-1cc04ef4-32b4-4b78-865f-1364f5bb90b2.png">
 
-> **NOTE!**
->  **CRUD**–stands for Create, Read (Retrieve), Update, Delete–are the four main operations we do with DataBases. 
+> [!NOTE]
+>  **CRUD**–stands for **Create**, **Read (Retrieve)**, **Update**, **Delete**–are the four main operations we do with DataBases. 
 
