@@ -22,15 +22,19 @@ The way data is stored defines the type of database. We have two general categor
 
 Let's take a look at them:
 
-|Tables|Anything but tables|
+|Tables|Anything BUT tables|
 |---|---|
-|Has rows and columns: <br/>    - Every **row** in a table stores one **record** <br/>   - Every **column** has some **attribute of that record**.
-|In forms of Key & Value, Documents (JSON, XML, etc), Graph|
-|<img width="730" alt="Screenshot 2023-11-27 at 14 24 23" src="https://user-images.githubusercontent.com/56404983/285883519-0364a1a5-de8d-42ad-b65e-5c1966c68ee3.png">|<img width="717" alt="Screenshot 2023-11-27 at 14 28 56" src="https://user-images.githubusercontent.com/56404983/285880534-9a900b3a-0ac9-4942-a120-eba160a64f03.png"> <br/> |
-|||
+|Has rows and columns: <br/>    - Every **row** in a table stores one **record** <br/>   - Every **column** has some **attribute of that record**.|In forms of Key & Value, Documents (JSON, XML, etc), Graph|
+|<img width="730" alt="Screenshot 2023-11-27 at 14 24 23" src="https://user-images.githubusercontent.com/56404983/285883519-0364a1a5-de8d-42ad-b65e-5c1966c68ee3.png">|<img width="717" alt="Screenshot 2023-11-27 at 14 28 56" src="https://user-images.githubusercontent.com/56404983/285880534-9a900b3a-0ac9-4942-a120-eba160a64f03.png"> <br/> <img width="341" alt="Screenshot 2023-11-27 at 14 23 52" src="https://user-images.githubusercontent.com/56404983/285887451-a2d24e59-94ad-4d75-b52a-c9f0577e6900.png">|
 
-Since we divided stored data into two categories, for each of them we have a separate type of Database.
+<br/>
+
+Since we divided stored data into two categories, **for each of them we have a separate type of Database**. 
+
+<br/>
 
 |Relational Database (SQL)| Non-Relational Database (no-SQL)|
 |---|---|
-|||
+|Uses a ﻿﻿Relational Database Management Systems (**RDBMS**) to create/maintain a relational DB <br/> Example: _mySQL, Oracle, postgreSQL, mariaDB._|Uses Non-Relational Database Management Systems (**NRDBMS**) <br/> Example: _mongoDB, dynamoDB, apache cassandra, firebase._|
+|﻿**SQL** (Structured Query Language) is the **standard language** for interacting with RDBMS to perform C.R.U.D operations|There is **no** standard language and each NRDBMS has their own langauge|
+
