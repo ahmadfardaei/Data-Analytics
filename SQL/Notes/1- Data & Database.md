@@ -24,7 +24,13 @@ Let's take a look at them:
 
 |Tables|Anything but tables|
 |---|---|
-|Has rows and columns: <br/>    - Every row in a table stores one record <br/>   - Every column has some attribute of that record.
-|jhgvjhv|
+|Has rows and columns: <br/>    - Every **row** in a table stores one **record** <br/>   - Every **column** has some **attribute of that record**.
+|In forms of Key & Value, Documents (JSON, XML, etc), Graph|
+|<img width="730" alt="Screenshot 2023-11-27 at 14 24 23" src="https://user-images.githubusercontent.com/56404983/285883519-0364a1a5-de8d-42ad-b65e-5c1966c68ee3.png">|<img width="717" alt="Screenshot 2023-11-27 at 14 28 56" src="https://user-images.githubusercontent.com/56404983/285880534-9a900b3a-0ac9-4942-a120-eba160a64f03.png"> <br/> |
 |||
+
+Since we divided stored data into two categories, for each of them we have a separate type of Database.
+
+|Relational Database (SQL)| Non-Relational Database (no-SQL)|
+|---|---|
 |||
