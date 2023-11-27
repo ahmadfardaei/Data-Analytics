@@ -2,3 +2,14 @@ Instead of having just one table, a database can have multiple tables. A very la
 
 To do so, we need a **relational database**; a database that we can define the relationships between the tables.
 
+
+
+
+
+
+
+> [!NOTE]
+> Now that we are familiar with the relationships between tables, the problems we will face relating to tables, data, and databases would be:
+> - **Designing** a database and **writing** its tables
+> - Given a database we should do something with the data by **querying** from its tables
+
