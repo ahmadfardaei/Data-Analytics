@@ -17,7 +17,7 @@ In fact, they are like a middle-man, between the database and the ones who want 
 ## Data storage and Types of Databases 
 
 The way data is stored defines the type of database. We have two general categories for forms of stored data:
-- **Tables**
+- **Tables** (which can be related to each other)
 - **Anything but tables** :sweat_smile: No I'm not kidding!
 
 Let's take a look at them:
